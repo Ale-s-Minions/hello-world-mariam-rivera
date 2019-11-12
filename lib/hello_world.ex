@@ -4,6 +4,6 @@ defmodule HelloWorld do
   """
   @spec hello :: String.t()
   def hello do
-    "Your implementation goes here"
+    "Hello world!"
   end
 end
